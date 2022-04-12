@@ -1,0 +1,4 @@
+[mysqld]
+innodb_buffer_pool_size=2048M
+max_allowed_packet = 256M
+query_cache_size=16M
